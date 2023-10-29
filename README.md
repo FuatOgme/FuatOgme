@@ -3,6 +3,8 @@
 - Currently studying & working on :point_down:
 - * state-of-the-art recommender systems for multi-modal data(i.e. Music) 
 - * anomaly detection for various applications(image anomalies, financial transaction anomalies(a.k.a frauds) and so on)
+- * CTR prediction in e-commerce for sponsored search
+  
 
 <!---
 FuatOgme/FuatOgme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
