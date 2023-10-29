@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FuatOgme 
 - 👀 I’m interested in Data science,  AI, machine&deep learning, information processing and data&web mining. 
-- Currently most of my repositories are private for academical purposes 
+- Due to concerns regarding plagiarism, I am keeping my GitHub repositories private.
 - Currently studying & working on :point_down:
 - * state-of-the-art recommender systems for multi-modal data(i.e. Music) 
 - * anomaly detection for various applications(image anomalies, financial transaction anomalies(a.k.a frauds) and so on)
